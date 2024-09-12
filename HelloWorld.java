@@ -3,7 +3,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // Place your code here
     }
 
 }
